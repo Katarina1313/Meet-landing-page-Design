@@ -39,7 +39,7 @@ body {
 .image-hero {
   width: 375px;
   margin-top: 50px;
-  margin-left: -10px;
+  margin-left: 15px;
   text-align: center;
 }
 .left-img-hero,
@@ -61,7 +61,7 @@ body {
   font-weight: 500;
   line-height: 26px;
   text-align: center;
-  margin: 24px 30px 24px 10px;
+  margin: 24px 25px 24px 15px;
 }
 .btn-green {
   display: block;
@@ -76,7 +76,7 @@ body {
   font-weight: 900;
   line-height: 26px;
   text-align: center;
-  margin: 0 95px 16px 75px;
+  margin: 0 80px 16px 90px;
   cursor: pointer;
 }
 .green-span {
@@ -95,7 +95,7 @@ body {
   font-weight: 900;
   line-height: 26px;
   text-align: center;
-  margin: 0 125px 20px 105px;
+  margin: 0 115px 20px 115px;
   padding: 16px 0px 25px 30px;
   cursor: pointer;
 }
@@ -137,7 +137,7 @@ body {
   gap: 10px;
   height: 310px;
   width: 327px;
-  margin: 80px 34px 50px 24px;
+  margin: -54px 34px 50px 34px;
   position: relative;
 }
 
@@ -156,7 +156,7 @@ body {
   text-align: left;
   color: #4d96a9;
   text-transform: uppercase;
-  margin: 0 -40px 24px 40px;
+  margin: 0 -50px 24px 50px;
 }
 .main-bold-heading {
   color: #28283d;
@@ -173,7 +173,7 @@ body {
   line-height: 26px;
   text-align: center;
   width: 327px;
-  margin: 0 -54px -20px 4px;
+  margin: 0 -34px -20px 34px;
 }
 .separator-2 {
   display: flex;
