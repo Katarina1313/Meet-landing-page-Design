@@ -33,12 +33,13 @@ body {
   width: 50%;
   justify-content: center;
   align-items: center;
-  margin-left: 117px;
+  margin-left: 115px;
   margin-top: 51px;
 }
 .image-hero {
   width: 375px;
   margin-top: 50px;
+  margin-left: -10px;
   text-align: center;
 }
 .left-img-hero,
@@ -50,7 +51,7 @@ body {
   font-weight: 900;
   line-height: 44px;
   text-align: center;
-  margin: 50px 50px 0 50px;
+  margin: 50px 10px 0 -10px;
 }
 .heading-text {
   color: #87879d;
@@ -60,7 +61,7 @@ body {
   font-weight: 500;
   line-height: 26px;
   text-align: center;
-  margin: 24px;
+  margin: 24px 30px 24px 10px;
 }
 .btn-green {
   display: block;
@@ -75,7 +76,7 @@ body {
   font-weight: 900;
   line-height: 26px;
   text-align: center;
-  margin: 0 91px 16px 91px;
+  margin: 0 95px 16px 75px;
   cursor: pointer;
 }
 .green-span {
@@ -94,7 +95,7 @@ body {
   font-weight: 900;
   line-height: 26px;
   text-align: center;
-  margin: 0 118px 20px 118px;
+  margin: 0 125px 20px 105px;
   padding: 16px 0px 25px 30px;
   cursor: pointer;
 }
@@ -136,7 +137,7 @@ body {
   gap: 10px;
   height: 310px;
   width: 327px;
-  margin: 80px 24px 50px 24px;
+  margin: 80px 34px 50px 24px;
   position: relative;
 }
 
@@ -155,7 +156,7 @@ body {
   text-align: left;
   color: #4d96a9;
   text-transform: uppercase;
-  margin: 00 50px 24px 50px;
+  margin: 0 -40px 24px 40px;
 }
 .main-bold-heading {
   color: #28283d;
@@ -172,7 +173,7 @@ body {
   line-height: 26px;
   text-align: center;
   width: 327px;
-  margin: 0 24px -20px 24px;
+  margin: 0 -54px -20px 4px;
 }
 .separator-2 {
   display: flex;
@@ -309,7 +310,8 @@ body {
     grid-template-columns: repeat(4, minmax(0, 1fr));
     column-gap: 8px;
     padding-right: 24px;
-    padding-left: 10px;
+    padding-left: 20px;
+    margin-left: 14px;
     margin-bottom: -110px;
     row-gap: 32px;
     width: 100%;
@@ -374,7 +376,7 @@ body {
       display: none;
     }
     .logo {
-      margin-left: 650px;
+      margin-left: 675px;
     }
     .left-img-hero {
       display: block;
@@ -408,9 +410,9 @@ body {
     }
     .images {
       width: 1110px;
-      margin-left: 180px;
+      margin-left: 165px;
     }
-    ..img-call,
+    .img-call,
     .img-chat,
     .img-meeting,
     .img-texting {
